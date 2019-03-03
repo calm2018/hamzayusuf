@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+
+<channel>
+	<title>Hamza Yusuf Seerah</title>
+	<atom:link href="https://muslimcentral.com/audio/hamza-yusuf/feed/" rel="self" type="application/rss+xml" />
+	<link>https://muslimcentral.com/audio/hamza-yusuf/</link>
+	<description>Hamza Yusuf is a cofounder of Zaytuna College, located in Berkeley, California. He is an advisor to Stanford University’s Program in Islamic Studies and the Center for Islamic Studies at Berkeley’s Graduate Theological Union. He also serves as vice-president for the Global Center for Guidance and Renewal, which was founded and is currently presided over by Shaykh Abdallah bin Bayyah, one of the top jurists and masters of Islamic sciences in the world. Recently, Hamza Yusuf was ranked as “the Western world’s most influential Islamic scholar” by The 500 Most Influential Muslims. Hamza Yusuf has also authored several encyclopedia articles and research papers. His published books include The Burda (2003), Purification of the Heart (2004), The Content of Character (2004), The Creed of Imam al-Tahawi (2007), Agenda to Change our Condition (2007), Walk on Water (2010), and The Prayer of the Oppressed (2010).
+
+Shaykh Hamza was born in Washington State and raised in Northern California. In 1977, he became Muslim and subsequently traveled to the Muslim world and studied for ten years in the U. A. E., Saudi Arabia, as well as North and West Africa. He received teaching licenses in various Islamic subjects from several well-known scholars in various countries. After ten years of studies abroad, he returned to the USA and earned degrees in Religious Studies and Health Care. He has traveled all over the world giving talks on Islam. He also founded Zaytuna Institute which has established an international reputation for presenting a classical picture of Islam in the West and which is dedicated to the revival of traditional study methods and the sciences of Islam. Shaykh Hamza is the first American lecturer to teach in Morocco&#8217;s prestigious and oldest University, the Qarawiyin in Fes. In addition, he has translated into modern English several classical Arabic traditional texts and poems. Shaykh Hamza currently resides in Northern California with his wife and five children.</description>
+	<lastBuildDate>
+	Sun, 03 Mar 2019 12:27:49 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1</generator>
+<!-- podcast_generator="Blubrry PowerPress/7.4" mode="advanced" category="2774" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<itunes:summary><![CDATA[Hamza Yusuf, FREE Audio Podcast brought to you by Muslim Central. Muslim Central is a private Audio Podcast Publisher. Our Audio Library consists of Islamic Lectures, Interviews, Debates and more, with over 100 Speakers and Shows from around the World.]]></itunes:summary>
+	<itunes:author>Muslim Central</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="https://podcasts.muslimcentral.com/images/hamza-yusuf.jpg" />
+	<itunes:owner>
+		<itunes:name>Muslim Central</itunes:name>
+		<itunes:email>muslimcentralmedia@gmail.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>muslimcentralmedia@gmail.com (Muslim Central)</managingEditor>
+	<copyright>Copyright &#xA9; Muslim Central</copyright>
+	<itunes:subtitle>Hamza Yusuf - Audio Podcast</itunes:subtitle>
+	<image>
+		<title>Hamza Yusuf</title>
+		<url>https://podcasts.muslimcentral.com/images/hamza-yusuf.jpg</url>
+		<link>https://muslimcentral.com/audio/hamza-yusuf/</link>
+	</image>
+	<itunes:category text="Religion &amp; Spirituality">
+		<itunes:category text="Islam"></itunes:category>
+	</itunes:category>
+	<itunes:category text="Religion &amp; Spirituality">
+		<itunes:category text="Spirituality"></itunes:category>
+	</itunes:category>
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="History"></itunes:category>
+	</itunes:category>
+	<googleplay:email>muslimcentralmedia@gmail.com</googleplay:email>
+	<googleplay:category text="Religion &amp; Spirituality" />
+	<rawvoice:subscribe feed="https://muslimcentral.com/audio/hamza-yusuf/feed/" itunes="https://itunes.apple.com/podcast/hamza-yusuf-muslim-central/id1207546879" spotify="https://open.spotify.com/show/6ab78O9ddBnafNaLeLpuu2"></rawvoice:subscribe>
+
+	<item>
+		<title>The Life Of The Prophet Muhammad - Part 40</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-40/</link>
+				<pubDate>Sat, 25 Mar 2017 10:00:48 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148935</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-40-2017-03-25-10-59-40.mp3" length="15092604" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>31:17</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 39</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-39/</link>
+				<pubDate>Sat, 25 Mar 2017 10:00:26 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148934</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-39-2017-03-25-10-58-28.mp3" length="15227113" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>31:34</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 38</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-38/</link>
+				<pubDate>Sat, 25 Mar 2017 09:58:41 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148933</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-38-2017-03-25-10-57-56.mp3" length="15847148" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>32:51</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 37</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-37/</link>
+				<pubDate>Sat, 25 Mar 2017 09:58:26 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148932</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-37-2017-03-25-10-57-15.mp3" length="14662931" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>30:23</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 36</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-36/</link>
+				<pubDate>Sat, 25 Mar 2017 09:56:46 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148931</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-36-2017-03-25-10-55-02.mp3" length="14594108" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>30:15</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 35</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-35/</link>
+				<pubDate>Sat, 25 Mar 2017 09:56:25 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148930</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-35-2017-03-25-10-54-29.mp3" length="13984951" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>28:58</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 34</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-34/</link>
+				<pubDate>Sat, 25 Mar 2017 09:55:06 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148929</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-34-2017-03-25-10-53-56.mp3" length="15007674" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>31:06</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 33</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-33/</link>
+				<pubDate>Sat, 25 Mar 2017 09:54:45 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148928</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-33-2017-03-25-10-53-06.mp3" length="14407930" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:51</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 32</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-32/</link>
+				<pubDate>Sat, 25 Mar 2017 09:54:26 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148927</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-32-2017-03-25-10-52-27.mp3" length="14594108" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>30:15</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 31</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-31/</link>
+				<pubDate>Sat, 25 Mar 2017 09:52:46 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148926</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-31-2017-03-25-10-51-53.mp3" length="13297139" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>27:33</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 30</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-30/</link>
+				<pubDate>Sat, 25 Mar 2017 09:52:24 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148925</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-30-2017-03-25-10-50-20.mp3" length="13918220" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>28:50</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 29</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-29/</link>
+				<pubDate>Sat, 25 Mar 2017 09:51:08 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148924</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-29-2017-03-25-10-49-40.mp3" length="13688321" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>28:21</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 28</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-28/</link>
+				<pubDate>Sat, 25 Mar 2017 09:50:47 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148923</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-28-2017-03-25-10-49-01.mp3" length="13835591" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>28:40</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 27</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-27/</link>
+				<pubDate>Sat, 25 Mar 2017 09:50:25 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148922</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-27-2017-03-25-10-48-32.mp3" length="10924313" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>22:36</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 26</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-26/</link>
+				<pubDate>Sat, 25 Mar 2017 09:48:25 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148921</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-26-2017-03-25-10-47-50.mp3" length="10870551" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>22:30</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 25</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-25/</link>
+				<pubDate>Sat, 25 Mar 2017 09:44:43 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148920</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-25-2017-03-25-10-43-20.mp3" length="14378853" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:48</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 24</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-24/</link>
+				<pubDate>Sat, 25 Mar 2017 09:44:25 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148919</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-24-2017-03-25-10-42-50.mp3" length="14097285" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:12</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 23</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-23/</link>
+				<pubDate>Sat, 25 Mar 2017 09:43:09 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148918</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-23-2017-03-25-10-41-59.mp3" length="13359895" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>27:40</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 22</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-22/</link>
+				<pubDate>Sat, 25 Mar 2017 09:42:48 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148917</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-22-2017-03-25-10-41-26.mp3" length="13343161" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>27:38</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 21</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-21/</link>
+				<pubDate>Sat, 25 Mar 2017 09:42:26 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148916</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-21-2017-03-25-10-40-42.mp3" length="13718026" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>28:25</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 20</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-20/</link>
+				<pubDate>Sat, 25 Mar 2017 09:38:46 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148915</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-20-2017-03-25-10-37-52.mp3" length="14259825" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:33</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 19</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-19/</link>
+				<pubDate>Sat, 25 Mar 2017 09:38:25 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148914</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-19-2017-03-25-10-37-20.mp3" length="13523272" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>28:01</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 18</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-18/</link>
+				<pubDate>Sat, 25 Mar 2017 09:37:00 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148913</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-18-2017-03-25-10-35-51.mp3" length="14503739" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>30:03</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 17</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-17/</link>
+				<pubDate>Sat, 25 Mar 2017 09:36:41 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148912</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-17-2017-03-25-10-35-12.mp3" length="14449977" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:57</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 16</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-16/</link>
+				<pubDate>Sat, 25 Mar 2017 09:36:22 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148911</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-16-2017-03-25-10-34-38.mp3" length="14540765" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>30:08</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 15</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-15/</link>
+				<pubDate>Sat, 25 Mar 2017 09:35:09 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148910</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-15-2017-03-25-10-34-00.mp3" length="7016461" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>14:28</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 14</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-14/</link>
+				<pubDate>Sat, 25 Mar 2017 09:34:48 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148909</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-14-2017-03-25-10-33-10.mp3" length="13723466" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>28:26</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 13</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-13/</link>
+				<pubDate>Sat, 25 Mar 2017 09:34:25 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148908</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-13-2017-03-25-10-32-28.mp3" length="14082642" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:11</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 12</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-12/</link>
+				<pubDate>Sat, 25 Mar 2017 09:32:46 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148907</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-12-2017-03-25-10-31-37.mp3" length="6514827" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>13:26</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 11</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-11/</link>
+				<pubDate>Sat, 25 Mar 2017 09:32:24 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148906</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-11-2017-03-25-10-30-32.mp3" length="6925883" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>14:17</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 10</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-10/</link>
+				<pubDate>Fri, 24 Mar 2017 14:39:25 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148902</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-10-2017-03-24-03-35-47.mp3" length="14315678" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:40</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 9</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-9/</link>
+				<pubDate>Fri, 24 Mar 2017 14:37:05 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148904</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-9-2017-03-24-03-35-04.mp3" length="14384708" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:48</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 8</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-8/</link>
+				<pubDate>Fri, 24 Mar 2017 14:36:47 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148903</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-8-2017-03-24-03-34-07.mp3" length="14954957" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>31:00</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 7</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-7/</link>
+				<pubDate>Fri, 24 Mar 2017 14:34:47 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148901</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-7-2017-03-24-03-33-21.mp3" length="14501227" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>30:03</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 6</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-6/</link>
+				<pubDate>Fri, 24 Mar 2017 14:34:24 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148900</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-6-2017-03-24-03-32-30.mp3" length="14482400" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>30:01</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 4</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-4/</link>
+				<pubDate>Fri, 24 Mar 2017 14:30:44 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148899</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad--part-4-2017-03-24-03-28-08.mp3" length="14418595" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:53</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 5</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-5/</link>
+				<pubDate>Fri, 24 Mar 2017 14:30:25 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148898</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-5-2017-03-24-03-29-10.mp3" length="14634689" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>30:20</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 3</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-3/</link>
+				<pubDate>Fri, 24 Mar 2017 14:28:47 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148897</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-3--2017-03-24-03-27-25.mp3" length="14549760" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>30:09</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 2</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-2/</link>
+				<pubDate>Fri, 24 Mar 2017 14:26:25 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148895</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-2-2017-03-24-03-25-11.mp3" length="14226353" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:29</itunes:duration>
+	</item>
+		<item>
+		<title>The Life Of The Prophet Muhammad - Part 1</title>
+		<link>https://muslimcentral.com/hamza-yusuf-life-prophet-muhammad-part-1/</link>
+				<pubDate>Fri, 24 Mar 2017 14:24:25 +0000</pubDate>
+		<dc:creator><![CDATA[auto-publisher]]></dc:creator>
+				<category><![CDATA[Hamza Yusuf]]></category>
+
+		<guid isPermaLink="false">http://www.muslimcentral.com/?p=148896</guid>
+				<description><![CDATA[]]></description>
+						<enclosure url="https://media.blubrry.com/muslimcentralaudio/podcasts.muslimcentral.com/hamza-yusuf/hamza-yusuf-muslimcentral.com-the-life-of-the-prophet-muhammad---part-1-2017-03-24-03-26-39.mp3" length="13954198" type="audio/mpeg" />
+				<itunes:author>Muslim Central</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>28:55</itunes:duration>
+	</item>
+
+	</channel>
+</rss>
